@@ -1,0 +1,8 @@
+Flask
+google-api-python-client
+textblob
+matplotlib
+pandas
+gunicorn
+numpy
+regex
